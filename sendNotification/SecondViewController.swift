@@ -12,7 +12,7 @@ class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        tableData.append("5")
         // Do any additional setup after loading the view.
     }
 
